@@ -6,7 +6,7 @@ Here is a detailed project specification for the **iTero Intelligent Troubleshoo
 
 ### **Project Specification: iTero Intelligent Troubleshooting Assistant**
 
-**Version:** 1.0
+**Version:** 0.1
 **Date:** June 13, 2025
 
 #### **1. Overview & Vision**
